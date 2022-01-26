@@ -1,5 +1,7 @@
 # Pull Request Comment Trigger
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/24debc44-db5d-4e3c-8014-91f29b891f36.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/pull-request-comment-trigger?orgId=650162616495)  
+
 Look for a "trigger word" in a pull-request description or comment, so that later steps can know whether or not to run.
 
 <!-- TODO release workflow-preprocessor This is most useful in tandem with [workflow-preprocessor], so that you don't have to be writing a ton of `if`s all down the line. -->
